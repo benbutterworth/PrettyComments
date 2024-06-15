@@ -1,0 +1,8 @@
+name = "PrettyComments"
+uuid = "bba31829-e396-4dfc-857f-1c978233e447"
+authors = ["ben "]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
